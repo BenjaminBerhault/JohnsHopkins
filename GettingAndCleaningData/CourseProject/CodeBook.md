@@ -4,14 +4,14 @@ CodeBook
 Boolean array related to the variables we are interested in
 
 ## test_data
-the test set is pre-formated with :
+Test set pre-formated with :
 * subject ID
 * activity ID
 * activity label
 * 79 relevant variables
 
 ## train_data
-the training set is pre-formated with :
+Training set pre-formated with :
 * subject ID
 * activity ID
 * activity label
