@@ -3,10 +3,10 @@ Project
 Here are the data for this project :
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-
-1.	From your working directory in R create a folder named “UCI HAR Dataset”
-2.	Extract in it the data downloaded
-3.	Run the R script
+1.  Dowload the script "run_analysis.R" in your working directory
+1.	From your working directory create a folder named “UCI HAR Dataset”
+2.	Extract in it data downloaded above (getdata-projectfiles-UCI HAR Dataset.zip)
+3.	Run the R script (run_analysis.R)
 4.	"tidy_data" in the R environment should contain dataset we are looking for  
 5.	A new “tidy_data.txt” file should also be created in your working directory
 
