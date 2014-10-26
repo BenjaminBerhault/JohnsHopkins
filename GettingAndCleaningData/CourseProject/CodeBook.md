@@ -1,5 +1,8 @@
 CodeBook
 ========
+## extract_features
+Boolean array related to the variables we are interested in
+
 ## test_data
 the test set is pre-formated with :
 * subject ID
@@ -26,5 +29,3 @@ Melt data according id_labels and data_labels
 ## tidy_data
 Data that we are looking for : 
 "the average of each variable for each activity and each subject"
-
-tidy_data are stored in a file named "tidy_data.txt"
